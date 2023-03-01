@@ -26,7 +26,7 @@ on:
       keyVaultName:
         description: "Environment Key Vault Name"
         required: true
-        default: "kv-symphony-environments"
+        default: "kv-doomhwgy-137"
       runLayerTest:
         description: "Run Layers Tests"
         type: boolean
